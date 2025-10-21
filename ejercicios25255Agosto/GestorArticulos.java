@@ -202,3 +202,4 @@ public class GestorArticulos {
     //     }
 
 }
+  //Revision pre-entrega. Falta ver las funciones flecha en el switch
